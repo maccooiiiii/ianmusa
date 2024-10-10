@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ian-joseph-musa-4495b0232/)](https://www.linkedin.com/in/ian-joseph-musa-4495b0232/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/silenced_sonata/)](https://www.instagram.com/roshanjayraj/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/silenced_sonata/)](https://www.instagram.com/silenced_sonata/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@musaianjoseph@gmail.com)](mailto:mail@musaianjoseph@gmail.com)
 
 
