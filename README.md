@@ -1,12 +1,17 @@
 ![Header image](https://raw.githubusercontent.com/maccooiiiii/ianmusa/master/Assets/GITHUB_BANNER.jpg)
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ian-joseph-musa-4495b0232/)](https://www.linkedin.com/in/ian-joseph-musa-4495b0232/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/silenced_sonata/)](https://www.instagram.com/roshanjayraj/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@musaianjoseph@gmail.com)](mailto:mail@musaianjoseph@gmail.com)
+
+
+
 <h1 align="center">Hi 👋, I'm Ian Joseph Musa</h1>
 <h3 align="center">A passionate creative writer and designer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maccooiiiii&label=Profile%20views&color=0e75b6&style=flat" alt="ian-joseph-musa" /> </p>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/heyow_ian" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/heyow_ian?logo=twitter&style=for-the-badge" alt="https://x.com/heyow_ian" /></a> </p>
 
 - 🔭 I’m currently working as **Freelancer**
 
